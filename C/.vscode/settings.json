@@ -1,0 +1,7 @@
+{
+	"files.associations": {
+		"*.tsx": "typescriptreact",
+		"stdio.h": "c"
+	},
+	"C_Cpp.errorSquiggles": "Disabled"
+}
